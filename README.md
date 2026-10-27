@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**ritikgupta892838/ritikgupta892838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm Ritik Gupta</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 BCA Student | Aspiring Software Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🐍 Learning Python | 🌐 HTML, CSS & JavaScript
+</p>
+
+<p align="center">
+  🚀 Learn • Build • Grow
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 BCA Student
+- 🐍 Currently learning Python
+- 🌐 Exploring Web Development
+- 🎯 Goal: Become a Software Engineer
+- 🇮🇳 From India
+
+### 🛠️ My Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github" alt="My Skills"/>
+</p>
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikgupta892838&show_icons=true&theme=tokyonight" width="100%" alt="GitHub Stats"/>
+</p>
+
+### 🌐 Connect With Me
+- 📸 Instagram: [@code_by_ritik](https://www.instagram.com/code_by_ritik/)
+- ▶️ YouTube: [Code by Ritik](https://www.youtube.com/@code_by_ritik)
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+  <br/>
+  <b>Code. Learn. Build. Repeat. 💚</b>
+</p>
